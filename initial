@@ -1,3 +1,5 @@
+# Chrging Command Sequence
+mermaid
 sequenceDiagram
     actor Operator
     participant MCC
