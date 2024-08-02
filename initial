@@ -1,7 +1,7 @@
 # Chrging Command Sequence
-mermaid
+```mermaid
 sequenceDiagram
-    actor Operator
+    Actor Operator
     participant MCC
     box FINCH
         participant RF
