@@ -1,0 +1,13 @@
+# Chrging Command Sequence
+```mermaid
+sequence Diagram
+    Actor Operator
+    participant MCC
+    box FINCH
+        participant RF
+        participant OBC as Onboard Computer (OBC)
+        participant SolarPanels
+        participant BMS as Battery Management System (BMS)
+        participant ADCS
+        participant PAY
+    end
